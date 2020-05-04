@@ -1,2 +1,1 @@
-Type "g++ Source.cpp" to compile
-Type "./a.out" to run
+Type "g++ Source.cpp" to compile and "./a.out" to run
